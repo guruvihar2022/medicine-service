@@ -24,7 +24,7 @@ public class MedicineController {
 	
 	@RequestMapping("/message")
 	public String getMessage() {		
-		return "Hello , wellcome to medplus";
+		return "Hello , wellcome";
 	}
 //=============================JPA========================================	
 	
